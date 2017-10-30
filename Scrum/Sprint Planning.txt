@@ -1,0 +1,10 @@
+Sprint Planning
+1. Dana yang dibutuhkan untuk membuat website (hosting,domain,dan lain-lain)
+2. sprint backlog
+	1. Halaman utama website
+	2. halaman admin
+	3. 
+3. Sprint goal
+	1. Website sudah online pas UTS
+	2. Halaman utama website
+	3. Halaman untuk admin
