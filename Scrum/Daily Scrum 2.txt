@@ -1,4 +1,0 @@
-Daily Scrum 2
-	Progres
-	1. Mengunakan template "Under constructor" untuk memberitahu pengunjung website kalau website masih on progres
-		
