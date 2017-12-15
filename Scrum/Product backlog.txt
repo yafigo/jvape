@@ -1,6 +1,0 @@
-Product Backlog
-1. Halaman untuk admin
-2. halaman utama website
-3. profile perusahaan
-4. product-product jvape
-5.
