@@ -1,8 +1,0 @@
-Daily Scrum 1
-	Progres
-	1. Halaman admin : 	1. Penginputan product oleh admin
-				2. Menampilkan hasil inputan
-				
-	Hambatan
-	1. Masih tidak menggunakan halaman login
-	2. Belum bisa menginputkan gambar product
